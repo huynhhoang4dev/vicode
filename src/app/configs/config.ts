@@ -1,0 +1,1 @@
+export const TradeGood_API_PATH: string = 'http://103.27.238.201:3669/api/TradeGood';
